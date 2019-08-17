@@ -1,0 +1,102 @@
+/*@font-face {
+	font-family: 'OpenSansRegular';
+	src: url('./OpenSansRegular.eot');
+	src: local('OpenSansRegular'), url('./OpenSansRegular.woff') format('woff'), url('./OpenSansRegular.ttf') format('truetype');
+}*/
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_16804">Text with this font applied</p> */
+/*.fontsforweb_fontid_16804 {
+	font-family: 'OpenSansRegular' !important;
+}*/
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./MaterialIcons.woff2') format('woff2');
+}
+
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(./OpenSansRegular.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(./OpenSansRegular2.woff2) format('woff2');
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(./OpenSansBold.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(./OpenSansBold2.woff2) format('woff2');
+}
+///////////////////////////
+/* latin-ext */
+@font-face {
+  font-family: 'Baloo Tammudu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Baloo Tammudu Regular'), local('BalooTammudu-Regular'), url(./BalooTammudu-Regular.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Baloo Tammudu';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Baloo Tammudu Regular'), local('BalooTammudu-Regular'), url(./BalooTammudu-Regular1.woff2) format('woff2');
+}
+/////////////////////
+/* latin-ext */
+@font-face {
+  font-family: 'Righteous';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Righteous'), local('Righteous-Regular'), url(./Righteous-Regular.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Righteous';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Righteous'), local('Righteous-Regular'), url(./Righteous-Regular1.woff2) format('woff2');
+}
+/*
+@font-face {
+	font-family: 'RobotoLight';
+	src: url('./RobotoLight.eot');
+	src: local('RobotoLight'), url('./RobotoLight.woff') format('woff'), url('./RobotoLight.ttf') format('truetype');
+}*/
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_46401">Text with this font applied</p> */
+/*.fontsforweb_fontid_46401 {
+	font-family: 'RobotoLight' !important;
+}*/
+
+/* Font downloaded from FontsForWeb.com */
